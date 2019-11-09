@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Share+Tech+Mono|Ubuntu+Mono:700|Source+Code+Pro:900"
+
+# Font families
+heading_font = "Source Code Pro"
+body_font = "Roboto"
+nav_font = "Source Code Pro"
+mono_font = "Roboto Mono"
