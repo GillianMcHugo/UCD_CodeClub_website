@@ -49,8 +49,8 @@ hero_media = "Logo-hero.png"
 #  label = '<a class="js-github-release" #href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**A bioinformatics group for PhD  
-students at UCD.**
+**A bioinformatics group for  
+students and staff at UCD.**
 
 To get updates:
 

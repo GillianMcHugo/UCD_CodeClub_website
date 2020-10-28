@@ -21,7 +21,7 @@ font = "custom"
 font_size = "L"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "UCD_CodeClub"
+description = "UCD_CodeClub, a code club for UCD staff and students"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "Logo.png"
@@ -50,7 +50,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -193,3 +193,12 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+    
+
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = "G-W9D5C1T1ZV"
+  google_tag_manager = ""
+  

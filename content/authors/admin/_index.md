@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: A bioinformatics group for PhD students at UCD
+bio: A bioinformatics group for students and staff at UCD
 
 #education:
 #  courses:
@@ -49,4 +49,4 @@ user_groups:
 - Previous Instructors
 ---
 
-UCD_CodeClub is a peer-led support group with the goal of helping UCD PhD students learn the necessary bioinformatics skills to carry out their research in a friendly, supportive environment. We are currently focusing on R, following the ['R for Data Science'](https://r4ds.had.co.nz/ "See book") book by Garrett Grolemund and Hadley Wickham. Join the [mailing list](http://bit.ly/join_CC) or [follow](https://twitter.com/UCD_CodeClub "@UCD_CodeClub") for updates.
+UCD_CodeClub is a peer-led support group with the goal of helping UCD students and staff learn the necessary bioinformatics skills to carry out their research in a friendly, supportive environment. We are currently focusing on R, following the ['R for Data Science'](https://r4ds.had.co.nz/ "See book") book by Garrett Grolemund and Hadley Wickham. Join the [mailing list](http://bit.ly/join_CC) or [follow](https://twitter.com/UCD_CodeClub "@UCD_CodeClub") for updates.
